@@ -1,0 +1,15 @@
+C:\Users\loric\Source\Repos\Beamng mods\bin\Debug\Beamng mods.exe.config
+C:\Users\loric\Source\Repos\Beamng mods\bin\Debug\Beamng mods.exe
+C:\Users\loric\Source\Repos\Beamng mods\bin\Debug\Beamng mods.pdb
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\BeamNGModsInstaller.csproj.AssemblyReference.cache
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\MainWindow.baml
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\MainWindow.g.cs
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\App.g.cs
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\Beamng mods_MarkupCompile.cache
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\Beamng mods.g.resources
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\Beamng_mods.Properties.Resources.resources
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\BeamNGModsInstaller.csproj.GenerateResource.cache
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\BeamNGModsInstaller.csproj.CoreCompileInputs.cache
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\Beamng mods.exe
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\Beamng mods.pdb
+C:\Users\loric\Source\Repos\Beamng mods\obj\Debug\Beamng mods_Content.g.cs

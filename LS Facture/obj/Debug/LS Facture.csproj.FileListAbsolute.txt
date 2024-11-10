@@ -1,0 +1,26 @@
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture.csproj.AssemblyReference.cache
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\MainWindow.baml
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\MainWindow.g.cs
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\App.g.cs
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture_MarkupCompile.cache
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture.g.resources
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS_Facture.Properties.Resources.resources
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture.csproj.GenerateResource.cache
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture.csproj.CoreCompileInputs.cache
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\x86\leptonica-1.82.0.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\x86\tesseract50.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\x64\leptonica-1.82.0.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\x64\tesseract50.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\LS Facture.exe.config
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\LS Facture.exe
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\LS Facture.pdb
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\System.Drawing.Common.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\Tesseract.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\Tesseract.Drawing.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\System.Drawing.Common.pdb
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\System.Drawing.Common.xml
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture.csproj.Up2Date
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture.exe
+C:\Users\loric\Source\Repos\LS Facture\obj\Debug\LS Facture.pdb
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\Newtonsoft.Json.dll
+C:\Users\loric\Source\Repos\LS Facture\bin\Debug\Newtonsoft.Json.xml

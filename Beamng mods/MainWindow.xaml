@@ -1,0 +1,59 @@
+﻿<Window x:Class="BeamNGModsInstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="BeamNG Mods Installer" Height="500" Width="800"
+        AllowDrop="True" Drop="Window_Drop" DragOver="Window_DragOver">
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="Black" Offset="0"/>
+            <GradientStop Color="#FF444444" Offset="1"/>
+        </LinearGradientBrush>
+    </Window.Background>
+
+    <Grid>
+        <TextBlock Text="Dev par Jimmy"
+                   HorizontalAlignment="Right"
+                   VerticalAlignment="Bottom"
+                   FontSize="14"
+                   Margin="10" FontFamily="Leelawadee" FontWeight="Bold">
+            <TextBlock.Foreground>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="Red" Offset="1"/>
+                </LinearGradientBrush>
+            </TextBlock.Foreground>
+        </TextBlock>
+
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="500" Height="484">
+            <!-- Liste des mods actuels -->
+            <TextBlock Text="Mods installés:" Foreground="White" FontSize="16" Margin="0,0,0,10"/>
+            <ListBox x:Name="ModsListBox" Height="150" Background="#FF222222" Foreground="White" BorderBrush="White" Margin="0,0,0,10"/>
+
+            <Grid>
+                <!-- Ajout du bouton "Check Update" -->
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Width="500">
+                    <!-- Bouton Check Update -->
+                </StackPanel>
+            </Grid>
+            <!-- Input pour le fichier mod à installer -->
+            <TextBox x:Name="ModFilePathTextBox" Width="300" Height="30" Background="#FF222222" Foreground="White" BorderBrush="White" Margin="0,0,0,10"/>
+
+            <!-- Bouton pour installer le mod via le chemin -->
+            <Button Content="Installer le mod via le chemin" Width="219" Height="40" FontSize="16" 
+                    Background="#FF222222" Foreground="White" BorderBrush="Transparent" 
+                    Click="OnInstallModViaPathClick" Margin="0,0,0,10"/>
+
+            <!-- Bouton pour supprimer le mod sélectionné -->
+            <Button Content="Supprimer le mod sélectionné" Width="224" Height="40" FontSize="16" 
+                    Background="#FF222222" Foreground="White" BorderBrush="Transparent" 
+                    Click="OnDeleteModClick" Margin="0,0,0,10"/>
+            <Button Content="Check Update" FontSize="16"
+                    Background="#FF222222" Foreground="Red" BorderBrush="Transparent" 
+                    Click="OnCheckUpdateClick" RenderTransformOrigin="0.497,-0.679" Height="40" Width="140"/>
+            <Button Content="Détails" FontSize="16"
+                Background="#FF222222" Foreground="White" BorderBrush="Transparent" 
+                Click="GetModStatisticsClick" RenderTransformOrigin="0.497,-0.679" Height="40" Width="140"/>
+        </StackPanel>
+        <TextBlock Text="" Foreground="#FF2BFF00" FontSize="16" Margin="108,321,192,132" FontWeight="Bold"/>
+    </Grid>
+</Window>
