@@ -8,7 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("index.html")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("styles.css")]
 
 
