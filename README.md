@@ -10,5 +10,5 @@ Ce code est **propriétaire** et strictement réservé à un **usage personnel**
 
 ## 🛠️ Signaler un bug
 
-🔍 Si vous identifiez une vulnérabilité ou un problème, merci de le signaler via [GitHub Issues](https://github.com/JimMarley420/RelaxPC/issues).  
+🔍 Si vous identifiez une vulnérabilité ou un problème, merci de le signaler via [GitHub Issues](https://github.com/JimMarley420/BeamNG-Mods-installer/issues).  
 Votre contribution aide à améliorer la sécurité et la qualité du projet ! 💡
