@@ -4,7 +4,7 @@ Ce code est **propriétaire** et strictement réservé à un **usage personnel**
 🚫 Toute **redistribution**, **commercialisation**, ou **utilisation non autorisée** est strictement interdite.  
 
 ### ❓ Vous avez une question ?  
-📩 Contactez-moi directement sur **Discord** : **jim_marley**.
+📩 Contactez-moi directement sur **Discord** : **jimmy_marley**.
 
 ---
 
